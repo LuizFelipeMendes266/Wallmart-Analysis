@@ -8,7 +8,6 @@
 - [Methodology](#methodology)
 - [Results](#results)
 - [Usage](#usage)
-- [Acknowledgements](#acknowledgements)
 - [References](#references)
 
 ## Project Description
