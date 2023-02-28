@@ -38,6 +38,7 @@ Therefore, a price index of 33 indicates that the price was one-third of the pri
 The Pandas, Numpy, and Matplotlib libraries were used for exploratory analysis. Based on the business perspective, some features were highlighted, especially weekly sales and fuel prices by region.
 
 ## Results
+Stores with sales above average were analyzed and a table was created with information on fuel prices for each store's region.
 
 | Store | Max  | Min  | Mean     | Fuel Price |
 |-------|------|------|----------|------------|
@@ -45,6 +46,8 @@ The Pandas, Numpy, and Matplotlib libraries were used for exploratory analysis. 
 | 4     | 3.881| 2.540| 3.216972 | 52.795276  |
 | 10    | 4.468| 2.825| 3.575923 | 58.159292  |
 | 28    | 4.468| 2.825| 3.606420 | 58.159292  |
+
+***Store 4 was selected as the best investment since it has the best results regarding sales and local fuel price.***
 
 ## Usage
 
