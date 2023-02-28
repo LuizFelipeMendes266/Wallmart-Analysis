@@ -23,12 +23,12 @@ The goal is to demonstrate which store would be the best choice for a potential 
 Summary of Features:
 
 - Holiday Flag indicates whether it is a holiday or not.
--Temperature indicates the temperature value at the location.
--Fuel_price indicates the fuel price at the location.
--Unemployment indicates the unemployment rate at the location.
--Store indicates the Walmart store number.
--The Consumer Price Index (CPI) measures the evolution of prices for goods and services.
--The CPI measures the price variation from the consumer's perspective.
+- Temperature indicates the temperature value at the location.
+- Fuel_price indicates the fuel price at the location.
+- Unemployment indicates the unemployment rate at the location.
+- Store indicates the Walmart store number.
+- The Consumer Price Index (CPI) measures the evolution of prices for goods and services.
+- The CPI measures the price variation from the consumer's perspective.
 
 ## Methodology
 
