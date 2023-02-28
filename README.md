@@ -15,11 +15,20 @@
 
 ## Project Description
 
-A brief overview of your project, including what problem it solves, what data you used, and what methods you used to analyze the data.
+In this project, a sales database from Walmart, an American multinational department store, was analyzed.
+The goal is to demonstrate which store would be the best choice for a potential investment.
 
 ## Data
 
-A description of the data you used in your project, including where you obtained it and any preprocessing steps you took.
+Summary of Features:
+
+Holiday Flag indicates whether it is a holiday or not.
+Temperature indicates the temperature value at the location.
+Fuel_price indicates the fuel price at the location.
+Unemployment indicates the unemployment rate at the location.
+Store indicates the Walmart store number.
+The Consumer Price Index (CPI) measures the evolution of prices for goods and services.
+The CPI measures the price variation from the consumer's perspective.
 
 ## Methodology
 
@@ -47,22 +56,7 @@ Any acknowledgements you would like to make, such as thanking people or organiza
 
 ## References
 
-A list of any references you used in your project, including papers, books, or websites.
-# Neste presente projeto, analisaremos uma base de vendas do Wallmart que é uma multinacional estadunidense de lojas de departamento.
-# Queremos, através da análise, demonstrar qual loja seria a melhor escolha para um possível investimento.
 
-
-
-# Resumo das Features e adendos:
-
-
-# Holiday Flag indica se é feriado ou não.
-# Temperature indica o valor da temperatura no local.
-# Fuel_price indica o preço do combustível no local.
-# Unemployment indica a taxa de desemprego no local.
-# Store indica o número da loja da Wallmart.
-# O Índice de Preços ao Consumidor (CPI) mede a evolução dos preços de bens e serviços.
-# O CPI mede a variação de preços a partir da perspectiva do consumidor.
 # É uma maneira fundamental para medir as variações de tendências de compra e a inflação nos Estados Unidos. 
 # Para seguir os efeitos do aumento de preços, o ano de 1995 foi fixado como ano-base (igual a 100). 
 # Portanto, um índice de preço de 33 indica que o preço foi 1/3 de 1995.
