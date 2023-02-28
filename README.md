@@ -35,11 +35,16 @@ Therefore, a price index of 33 indicates that the price was one-third of the pri
 
 ## Methodology
 
-A description of the methodology you used in your project, including any models you used and how you evaluated their performance.
+The Pandas, Numpy, and Matplotlib libraries were used for exploratory analysis. Based on the business perspective, some features were highlighted, especially weekly sales and fuel prices by region.
 
 ## Results
 
-A summary of the results you obtained from your analysis, including any visualizations you created.
+| Store | Max  | Min  | Mean     | Fuel Price |
+|-------|------|------|----------|------------|
+| 13    | 3.845| 2.654| 3.286147 | 44.875659  |
+| 4     | 3.881| 2.540| 3.216972 | 52.795276  |
+| 10    | 4.468| 2.825| 3.575923 | 58.159292  |
+| 28    | 4.468| 2.825| 3.606420 | 58.159292  |
 
 ## Usage
 
