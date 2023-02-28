@@ -53,6 +53,7 @@ To run this project, you will need to have Python installed on your computer. Yo
 - pandas
 - numpy
 - matplotlib
+
 You can install these libraries via pip, a package-management system used to install and manage software packages written in Python.
 
 ## References
