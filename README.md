@@ -22,7 +22,7 @@ The goal is to demonstrate which store would be the best choice for a potential 
 
 Summary of Features:
 
--Holiday Flag indicates whether it is a holiday or not.
+- Holiday Flag indicates whether it is a holiday or not.
 -Temperature indicates the temperature value at the location.
 -Fuel_price indicates the fuel price at the location.
 -Unemployment indicates the unemployment rate at the location.
