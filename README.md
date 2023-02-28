@@ -8,8 +8,6 @@
 - [Methodology](#methodology)
 - [Results](#results)
 - [Usage](#usage)
-- [Contributors](#contributors)
-- [License](#license)
 - [Acknowledgements](#acknowledgements)
 - [References](#references)
 
@@ -51,23 +49,13 @@ Stores with sales above average were analyzed and a table was created with infor
 
 ## Usage
 
-Instructions for how to use your code, including any dependencies and how to run any scripts.
+To run this project, you will need to have Python installed on your computer. You will also need to install the following libraries:
 
-## Contributors
-
-A list of the people who contributed to the project, along with their contact information.
-
-## License
-
-A statement about the license under which the code and data are released.
-
-## Acknowledgements
-
-Any acknowledgements you would like to make, such as thanking people or organizations that provided data or tools.
+- pandas
+- numpy
+- matplotlib
+You can install these libraries via pip, a package-management system used to install and manage software packages written in Python.
 
 ## References
 
-
-# É uma maneira fundamental para medir as variações de tendências de compra e a inflação nos Estados Unidos. 
-# Para seguir os efeitos do aumento de preços, o ano de 1995 foi fixado como ano-base (igual a 100). 
-# Portanto, um índice de preço de 33 indica que o preço foi 1/3 de 1995.
+https://www.kaggle.com/datasets/yasserh/walmart-dataset
