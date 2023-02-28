@@ -40,7 +40,7 @@ The Pandas, Numpy, and Matplotlib libraries were used for exploratory analysis. 
 ## Results
 Stores with sales above average were analyzed and a table was created with information on fuel prices for each store's region.
 
-| Store | Max  | Min  | Mean     | Fuel Price |
+| Store | Max  | Min  | Mean     | Variation of fuel price % |
 |-------|------|------|----------|------------|
 | 13    | 3.845| 2.654| 3.286147 | 44.875659  |
 | 4     | 3.881| 2.540| 3.216972 | 52.795276  |
