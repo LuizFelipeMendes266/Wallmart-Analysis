@@ -29,6 +29,9 @@ Summary of Features:
 - Store indicates the Walmart store number.
 - The Consumer Price Index (CPI) measures the evolution of prices for goods and services.
 - The CPI measures the price variation from the consumer's perspective.
+- It is a fundamental way to measure trends in purchasing and inflation in the United States.
+To track the effects of price increases, the year 1995 was set as the base year (equal to 100).
+Therefore, a price index of 33 indicates that the price was one-third of the price in 1995.
 
 ## Methodology
 
